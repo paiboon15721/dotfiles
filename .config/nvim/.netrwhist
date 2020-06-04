@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/paiboon/Development/node/inmongo'
+let g:netrw_dirhist_6='/home/paiboon/Development/node'
+let g:netrw_dirhist_5='/home/paiboon/Development/node/inmongo'
+let g:netrw_dirhist_4='/home/paiboon/Development/node'
+let g:netrw_dirhist_3='/home/paiboon/Development/node/test'
+let g:netrw_dirhist_2='/home/paiboon/Development/node/inmongo'
+let g:netrw_dirhist_1='/home/paiboon/Development/node'
+let g:netrw_dirhist_0='/home/paiboon/Development/node/test'
+let g:netrw_dirhist_9='/home/paiboon/Development'
+let g:netrw_dirhist_8='/home/paiboon/Development/node'
