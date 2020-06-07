@@ -72,6 +72,8 @@ let g:go_highlight_variable_declarations = 1
 let g:go_auto_sameids = 1
 
 
+let g:gruvbox_contrast_dark = 'hard'
+let g:gruvbox_colors = { 'bg0': ['#000000', 0] }
 colorscheme gruvbox
 set background=dark
 
